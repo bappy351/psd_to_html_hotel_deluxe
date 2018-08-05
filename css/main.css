@@ -184,7 +184,7 @@ footer{
 }
 
 .testimonial_wrapper{
-    width: 1300px;
+    width: 80%;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -289,7 +289,7 @@ footer{
 
 .view_picing {
     background-color: #2a2e33;
-    width: 1019px;
+    width: 66%;
     height: 85px;
     position: absolute;
     left: 0;
