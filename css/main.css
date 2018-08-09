@@ -2,7 +2,21 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+    font-family: 'AR DECODE';
+    src: url(../fonts/ARDECODE.ttf);
 
+}
+
+@font-face {
+    font-family: 'Droid Sans';
+    src: url(../fonts/DroidSans.ttf);
+
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
 .left {
     float: left;
 }
